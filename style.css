@@ -1,0 +1,98 @@
+main {
+    margin: 0px auto;
+
+    
+}
+#nav-bar {
+    width: 100%;
+    margin-top: 15px;
+    
+}
+
+ul {
+    padding-right: 40px;
+}
+
+li {
+    display: inline;
+    padding: 5px;
+    font-size: 12px;
+    color: #606060;
+}
+
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.left-nav {
+    float: left;
+}
+
+.right-nav {
+    float: right;
+    padding-right: 40px;
+}
+
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+
+#main {
+    padding: 155px 0px 340px 0px;
+    
+}
+
+.float-right {
+    float: right;
+}
+
+form input[type="search"] {
+    width: 25%;
+    border-radius: 25px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid lightgray;
+    display: block;
+    margin-bottom: 50px;
+    background-image: url(images/search-icon.png);
+    background-position: 12px 12px;
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+}
+
+.button {
+
+    padding: 10px;
+    background-color: whitesmoke;
+    border-radius: 3px;
+    text-decoration: none;
+    font-size: 14px;
+    border: none;
+    margin: 2px;
+    cursor: pointer;
+    
+}
+
+.button:hover {
+    border: 1px solid lightgrey;
+
+}
+
+form {
+    padding: 35px;
+}
+
+footer {
+    border-top: 1px solid lightgray;
+    background-color: whitesmoke;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 5rem;
+}
+
