@@ -1,1 +1,2 @@
-Project made of The Odin Project.
+Project made for The Odin Project.
+
